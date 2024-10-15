@@ -1,0 +1,15 @@
+17:17:24 [main] INFO  LumaStore.base.TestBase - Product Colour added
+17:17:24 [main] INFO  LumaStore.base.TestBase - AddtoCart clicked
+17:17:27 [main] INFO  LumaStore.base.TestBase - AddtoCart SuccessMsg validated
+17:17:28 [main] INFO  LumaStore.base.TestBase - MiniCart clicked
+17:17:28 [main] INFO  LumaStore.base.TestBase - MiniCart validated
+17:17:31 [main] INFO  LumaStore.base.TestBase - Proceed to Checkout
+17:17:31 [main] INFO  LumaStore.base.TestBase - Checkout page navigated
+17:17:36 [main] INFO  LumaStore.base.TestBase - Shipping Method selected
+17:18:13 [main] INFO  LumaStore.base.TestBase - Batch Run:1724154403795 completed
+21:02:32 [main] INFO  LumaStore.base.TestBase - Batch Run:1726414336925
+21:02:33 [main] INFO  LumaStore.base.TestBase - Indexpage validated
+21:02:33 [main] INFO  LumaStore.base.TestBase - Indexpage Title validated
+21:02:34 [main] INFO  LumaStore.base.TestBase - Signin link clicked
+21:02:34 [main] INFO  LumaStore.base.TestBase - Login page navigated
+21:02:34 [main] INFO  LumaStore.base.TestBase - User creds entered

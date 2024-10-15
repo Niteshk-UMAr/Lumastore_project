@@ -1,0 +1,15 @@
+15:50:35 [main] INFO  LumaStore.base.TestBase - Sign in clicked
+15:50:51 [main] INFO  LumaStore.base.TestBase - Batch Run:1720261225043 completed
+15:55:40 [main] INFO  LumaStore.base.TestBase - Batch Run:1720261533536
+15:55:42 [main] INFO  LumaStore.base.TestBase - Signin link clicked
+15:55:42 [main] INFO  LumaStore.base.TestBase - Login page navigated
+15:55:42 [main] INFO  LumaStore.base.TestBase - User creds entered
+15:55:44 [main] INFO  LumaStore.base.TestBase - Sign in clicked
+15:56:01 [main] INFO  LumaStore.base.TestBase - Batch Run:1720261533536 completed
+12:47:51 [main] INFO  LumaStore.base.TestBase - Batch Run:1723706252113
+12:47:52 [main] INFO  LumaStore.base.TestBase - Indexpage validated
+12:47:52 [main] INFO  LumaStore.base.TestBase - Indexpage Title validated
+12:47:55 [main] INFO  LumaStore.base.TestBase - Batch Run:1723706252113 completed
+16:26:31 [main] INFO  LumaStore.base.TestBase - Batch Run:1723719375672
+16:26:32 [main] INFO  LumaStore.base.TestBase - Indexpage validated
+16:26:32 [main] INFO  LumaStore.base.TestBase - Indexpage Title validated

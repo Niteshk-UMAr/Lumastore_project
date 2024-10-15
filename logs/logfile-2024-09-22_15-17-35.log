@@ -1,0 +1,13 @@
+03:23:00 [main] INFO  LumaStore.base.TestBase - User creds entered
+03:23:01 [main] INFO  LumaStore.base.TestBase - Sign in clicked
+03:23:02 [main] INFO  LumaStore.base.TestBase - Batch Run:1726782740310 completed
+04:21:15 [main] INFO  LumaStore.base.TestBase - Batch Run:1726786240578
+04:21:15 [main] INFO  LumaStore.base.TestBase - Product List validated, Product count is: 6
+04:21:17 [main] INFO  LumaStore.base.TestBase - Batch Run:1726786240578 completed
+04:23:17 [main] INFO  LumaStore.base.TestBase - Batch Run:1726786362514
+04:23:17 [main] INFO  LumaStore.base.TestBase - Product List validated, Product count is: 6
+04:23:18 [main] INFO  LumaStore.base.TestBase - Batch Run:1726786362514 completed
+15:17:31 [main] INFO  LumaStore.base.TestBase - Batch Run:1726998434432
+15:17:32 [main] INFO  LumaStore.base.TestBase - Mens tag clicked
+15:17:34 [main] INFO  LumaStore.base.TestBase - Navigated to desired Product-Jackets
+15:17:34 [main] INFO  LumaStore.base.TestBase - Select Product category validated, Product Category: Jackets

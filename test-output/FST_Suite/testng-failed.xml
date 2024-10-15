@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FST_Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="LumaStore.utils.ReportListeners"/>
+  </listeners>
+  <test thread-count="5" name="FST_Test(failed)">
+    <classes>
+      <class name="LumaStore.testCases.TC03_HomePageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyProductList"/>
+          <include name="HomePage"/>
+          <include name="launch"/>
+        </methods>
+      </class> <!-- LumaStore.testCases.TC03_HomePageTest -->
+      <class name="LumaStore.testCases.TC02_LoginPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="launch"/>
+          <include name="LoginPage"/>
+          <include name="verifyLogin"/>
+        </methods>
+      </class> <!-- LumaStore.testCases.TC02_LoginPageTest -->
+      <class name="LumaStore.testCases.TC06_ShippingPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="ShippingPage"/>
+          <include name="verifyShipping"/>
+          <include name="launch"/>
+        </methods>
+      </class> <!-- LumaStore.testCases.TC06_ShippingPageTest -->
+      <class name="LumaStore.testCases.TC08_CheckoutPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="launch"/>
+          <include name="verifyOrderPurchase"/>
+          <include name="verifyOrderNum"/>
+          <include name="verifyTotalPrice"/>
+          <include name="CheckoutPage"/>
+        </methods>
+      </class> <!-- LumaStore.testCases.TC08_CheckoutPageTest -->
+      <class name="LumaStore.testCases.TC07_PaymentPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="launch"/>
+          <include name="PaymentPage"/>
+          <include name="verifyPayment"/>
+        </methods>
+      </class> <!-- LumaStore.testCases.TC07_PaymentPageTest -->
+    </classes>
+  </test> <!-- FST_Test(failed) -->
+</suite> <!-- Failed suite [FST_Suite] -->

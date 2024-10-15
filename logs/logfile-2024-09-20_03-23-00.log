@@ -1,0 +1,14 @@
+21:03:03 [main] INFO  LumaStore.base.TestBase - Checkout page navigated
+21:03:10 [main] INFO  LumaStore.base.TestBase - Shipping Method selected
+21:03:48 [main] INFO  LumaStore.base.TestBase - Batch Run:1726414336925 completed
+05:05:51 [main] INFO  LumaStore.base.TestBase - Batch Run:1726616110191
+05:05:52 [main] INFO  LumaStore.base.TestBase - Indexpage validated
+05:05:52 [main] INFO  LumaStore.base.TestBase - Indexpage Title validated
+05:05:52 [main] INFO  LumaStore.base.TestBase - Batch Run:1726616110191 completed
+23:36:12 [main] INFO  LumaStore.base.TestBase - Batch Run:1726769164099
+23:36:13 [main] INFO  LumaStore.base.TestBase - Indexpage validated
+23:36:13 [main] INFO  LumaStore.base.TestBase - Indexpage Title validated
+23:36:14 [main] INFO  LumaStore.base.TestBase - Batch Run:1726769164099 completed
+03:22:59 [main] INFO  LumaStore.base.TestBase - Batch Run:1726782740310
+03:23:00 [main] INFO  LumaStore.base.TestBase - Signin link clicked
+03:23:00 [main] INFO  LumaStore.base.TestBase - Login page navigated
